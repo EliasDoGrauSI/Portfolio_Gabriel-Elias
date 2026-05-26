@@ -38,7 +38,7 @@ Portfolio_Gabriel-Elias/
 │   ├── App.jsx
 │   └── index.jsx
 ├── public/
-│   └── index.html
+│   └── Imagens.png
 ├── package.json
 ├── vite.config.js
 └── README.md
